@@ -21,6 +21,8 @@ public class SampleTest {
         CucumberLogUtils.logScreenShot();
         CucumberLogUtils.logExtentScreenshot();
 
+        // Writing some code for git masterclass
+
     }
 
 }
