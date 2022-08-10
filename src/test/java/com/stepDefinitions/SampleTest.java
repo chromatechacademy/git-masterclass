@@ -23,6 +23,10 @@ public class SampleTest {
 
         // Writing some code for git masterclass
         // doing git push alone
+        // making a change and not add and committing
+        // Switched to masterclass branch
+
+        
 
     }
 
